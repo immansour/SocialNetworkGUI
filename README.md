@@ -1,6 +1,4 @@
 # SocialNetworkGUI
-Program that utilizes multiple data structures in order to create a social network that utilizes GUI.
+This is a social network that was developed by Ibrahim Mansour and Yousef Helal for a Data Structures and Abstraction final. It makes use of numerous user-created data structures, including but not limited to: dictionaries, graphs, bags, lists, etc. It has numerous features, and makes use of the CRUD operations. It also has a feature that recommends friends to a profile, and does this by iterating over the friends of friend vertices in a Undirected Graph.
 
-In order to use: make sure that you first run user interface. 
-
-If you want to see the photos of the hardcoded profiles, make sure to update the paths in the AddFriends class to the path of the photos that are on your computer.
+A GUI version demonstrates the many features of this application in a user-friendly environment. To run this version, run the "user-interface.java" file. To see pictures of the pre-defined, make sure to put them in the appropriate directory, and alter the path in the AddFriends Class. User-created pictures will work fine.
